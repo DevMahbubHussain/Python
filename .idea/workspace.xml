@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="904eb982-7ca5-46d0-a996-02d6467da3d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +25,11 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="Core-Python" />
-                    <option name="lastUsedInstant" value="1683195855" />
+                    <option name="lastUsedInstant" value="1683196387" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1683195809" />
+                    <option name="lastUsedInstant" value="1683196104" />
                   </RecentBranch>
                 </list>
               </option>
